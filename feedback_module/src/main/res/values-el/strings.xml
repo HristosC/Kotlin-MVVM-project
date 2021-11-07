@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="comment">Το σχόλιό σας</string>
+    <string name="submit">Υποβολή</string>
+    <string name="add_picture">Προσθήκη φωτογραφίας</string>
+    <string name="write_your_feedback">Πατήστε εδώ για να γράψετε το feedback σας...</string>
+</resources>

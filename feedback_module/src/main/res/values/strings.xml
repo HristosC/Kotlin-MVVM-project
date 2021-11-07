@@ -1,0 +1,7 @@
+<resources>
+    <string name="comment">Your comment</string>
+    <string name="title" translatable="false">Feedback</string>
+    <string name="submit">Submit</string>
+    <string name="add_picture">Add picture</string>
+    <string name="write_your_feedback">Press here to write your feedback...</string>
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/book"
+        android:icon="@drawable/ic_book_state"
+        android:title="TODO" />
+
+    <item
+        android:id="@+id/misc"
+        android:icon="@drawable/ic_misc_state"
+        android:title="Chat"
+        />
+
+    <item
+        android:id="@+id/nav_hidden_option"
+        android:title=""
+        android:checkable="false"/>
+
+    <item
+        android:id="@+id/link"
+        android:icon="@drawable/ic_link_state"
+        android:title="Profile" />
+
+    <item
+        android:id="@+id/settings"
+        android:icon="@drawable/ic_settings_state"
+        android:title="Settings" />
+</menu>

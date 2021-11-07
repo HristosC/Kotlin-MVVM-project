@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Threenitas Project</string>
+    <string name="loginTitle">Σύνδεση</string>
+    <string name="passwordMessage">Κωδικός</string>
+    <string name="showPassword">Προβολή</string>
+    <string name="loginButton">Σύνδεση</string>
+    <string name="wrongCredentials_first">Λανθασμένα στοιχεία</string>
+    <string name="wrongCredentials_second">Έχετε υποβάλει λάθος στοιχεία</string>
+    <string name="wrongCredentials_third">Επιστροφή</string>
+    <string name="info_user">6 χαρακτήρες(2 κεφαλαία στην αρχή, 4 νούμερα)</string>
+    <string name="info_pass">τουλάχιστον 8 χαρακτήρες (2 κεφαλαία,  3 πεζά, 1 ειδικός χαρακτήρας, 2 νούμερα)</string>
+    <string name="regex_error">Δεν συνάντησε το regex!</string>
+    <string name="main_page_Title">Περιοδικά</string>
+    <string name="settings">Ρυθμίσεις</string>
+    <string name="books">Περιοδικά</string>
+    <string name="notifications">Ειδοποιήσεις</string>
+    <string name="delete_magazines">Διαγραφή όλων των περιοδικών</string>
+    <string name="language">Γλώσσα</string>
+    <string name="logout">Αποσύνδεση</string>
+</resources>

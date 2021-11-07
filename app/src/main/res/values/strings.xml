@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Threenitas Project</string>
+    <string name="loginTitle">Login</string>
+    <string name="userIdMessage" translatable="false">UserID</string>
+    <string name="passwordMessage">Password</string>
+    <string name="showPassword">Show</string>
+    <string name="greekButton" translatable="false">Greek</string>
+    <string name="englishButton" translatable="false">English</string>
+    <string name="loginButton">Login</string>
+    <string name="wrongCredentials_first">Wrong Credentials</string>
+    <string name="wrongCredentials_second">You have submitted wrong credentials.</string>
+    <string name="wrongCredentials_third">Return</string>
+    <string name="info_user">6 characters(2 letters in Upper Case at the start,4 letters)</string>
+    <string name="info_pass">minimum 8 characters length(2 letters in Upper Case,3 letters in Lower Case,1 Special Character,2 numbers).</string>
+    <string name="regex_error">Did not meet the regex!</string>
+    <string name="main_page_Title">Magazines</string>
+    <string name="settings">Settings</string>
+    <string name="books">Magazines</string>
+    <string name="notifications">Notifications</string>
+    <string name="delete_magazines">Delete all magazines</string>
+    <string name="language">Language</string>
+    <string name="feedback" translatable="false">Feedback</string>
+    <string name="logout">Log out</string>
+    <string name="image_of_magazine" translatable="false">Image of Magazine</string>
+</resources>
